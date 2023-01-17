@@ -4,8 +4,6 @@ This is the repository for the SSB post meeting workshop in Chamela Station, Mex
 
 Dear attendee to Chamela Station Workshop
 
-The organizing committee wish you a very happy 2023 for you and all your love ones! 
-
 We are looking forward to meet you, and very enthusiast for our upcoming workshop. In preparation for the event, we are including a list of the software (and R packages) that will be needed along our activities.
 
 Is strongly recommended to install the software in advance. Some technical assistance may be available the days before the workshop, only for those requesting it in advance.
